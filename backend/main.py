@@ -1,41 +1,16 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import Depends, FastAPI, HTTPException, Query
+from sqlalchemy import select
+from sqlalchemy.orm import Session
+
+from database import get_db
+from models import Resource
+
 
 app = FastAPI(
     title="Ankommen API",
     description="Local resource discovery and recommendation platform",
     version="0.1.0"
 )
-
-resources = [
-    {
-        "id": 1,
-        "name": "Sample Healthcare Centre",
-        "category": "healthcare",
-        "journey": "settlement",
-        "city": "Ghaziabad"
-    },
-    {
-        "id": 2,
-        "name": "Sample Housing Service",
-        "category": "housing",
-        "journey": "settlement",
-        "city": "Ghaziabad"
-    },
-    {
-        "id": 3,
-        "name": "Sample Tourist Attraction",
-        "category": "attractions",
-        "journey": "tourism",
-        "city": "Ghaziabad"
-    },
-    {
-        "id": 4,
-        "name": "Sample Restaurant",
-        "category": "restaurants",
-        "journey": "tourism",
-        "city": "Ghaziabad"
-    }
-]
 
 
 @app.get("/")
@@ -51,9 +26,10 @@ def home():
 @app.get("/resources")
 def get_resources(
     journey: str | None = Query(default=None),
-    category: str | None = Query(default=None)
+    category: str | None = Query(default=None),
+    db: Session = Depends(get_db)
 ):
-    results = resources
+    query = select(Resource)
 
     if journey:
         journey = journey.strip().lower()
@@ -64,17 +40,31 @@ def get_resources(
                 detail="Journey must be settlement or tourism"
             )
 
-        results = [
-            resource for resource in results
-            if resource["journey"] == journey
-        ]
+        query = query.where(Resource.journey == journey)
 
     if category:
         category = category.strip().lower()
-        results = [
-            resource for resource in results
-            if resource["category"] == category
-        ]
+        query = query.where(Resource.category == category)
+
+    resources = db.execute(query).scalars().all()
+
+    results = [
+        {
+            "id": resource.id,
+            "name": resource.name,
+            "category": resource.category,
+            "journey": resource.journey,
+            "city": resource.city,
+            "description": resource.description,
+            "address": resource.address,
+            "latitude": resource.latitude,
+            "longitude": resource.longitude,
+            "website": resource.website,
+            "min_budget": resource.min_budget,
+            "max_budget": resource.max_budget,
+        }
+        for resource in resources
+    ]
 
     return {
         "count": len(results),
