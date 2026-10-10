@@ -8,6 +8,9 @@ env/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+node_modules/
+dist/
+ankommen.db
 
 # Environment variables and secrets
 .env

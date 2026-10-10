@@ -1,28 +1,89 @@
 # Ankommen
 
-Ankommen is an AI-powered local resource discovery and recommendation platform designed for newcomers, immigrants, and tourists.
+Ankommen helps newcomers and visitors discover useful places and services. The
+first working release supports Settlement and Tourism journeys in Ghaziabad.
+Its included listings are clearly marked demo data, not verified providers.
 
-## Initial Development Scope
+## What works
 
-- **Target city:** Ghaziabad, Uttar Pradesh, India
-- **Journeys:** Settlement and Tourism
+- A responsive React interface for both journeys, live text search, category
+  filters, result cards, and helpful loading/error/empty states.
+- A FastAPI resource API with city and journey/category filters, multi-word
+  search, and relevance ranking.
+- A small Ghaziabad demo dataset, idempotent seeding, and automated API tests
+  using an isolated in-memory SQLite database.
 
-### Settlement
+## Run locally
 
-Help users discover local resources such as housing, jobs, healthcare, education, banking, government services, and public transport.
+Requirements: Python 3.10+ and Node.js 18+.
 
-### Tourism
+### Backend (PowerShell)
 
-Help users discover attractions, accommodation, restaurants, events, shopping, and activities.
+```powershell
+cd backend
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
 
-## Planned Technology Stack
+For safe local development, point this PowerShell session at SQLite so that
+setup and demo seeding cannot write to a database URL in an existing `.env`:
 
-- **Frontend:** React
-- **Backend:** FastAPI (Python)
-- **Database:** Existing database to be verified
-- **Search:** Keyword and semantic retrieval
-- **Maps:** To be selected during implementation
+```powershell
+$env:DATABASE_URL = "sqlite:///./ankommen.db"
+python create_tables.py
+python seed_data.py
+uvicorn main:app --reload
+```
 
-## Project Status
+This local fallback is also used if `DATABASE_URL` is not set. Keep any
+existing `backend\.env` unchanged.
 
-Initial project setup. Backend, frontend, database integration, and AI search are not yet implemented.
+Open <http://127.0.0.1:8000/docs> to explore the API. The frontend requests the
+Ghaziabad demo listings from this server.
+
+### Frontend (a second PowerShell window)
+
+```powershell
+cd frontend
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite (normally <http://localhost:5173>). Vite
+forwards `/api` requests to the local FastAPI server.
+
+### Tests and production build
+
+```powershell
+cd backend
+.\.venv\Scripts\python.exe -m pytest -q
+```
+
+For a fresh backend environment, install test tools with
+`pip install -r requirements-dev.txt` instead of the production requirements.
+
+```powershell
+cd frontend
+npm run build
+```
+
+## Deploy
+
+The included [`render.yaml`](./render.yaml) is the shortest backend path:
+
+1. Push this repository to GitHub and create a new Blueprint on Render from it.
+   Render provisions the PostgreSQL database, installs `backend/requirements.txt`,
+   creates the schema and demo records, and starts the FastAPI service.
+2. Deploy the `frontend` directory as a Vercel project with the framework preset
+   **Vite** and build command `npm run build`.
+3. Set the Vercel project environment variable `VITE_API_URL` to the Render
+   API origin, for example `https://ankommen-api.onrender.com` (no trailing
+   slash). Set the Render service's `CORS_ORIGINS` to the deployed Vercel
+   origin, for example `https://your-project.vercel.app`.
+4. Redeploy both services after setting those environment variables.
+
+Keep database URLs and deployment credentials in the hosting provider's secret
+environment settings; never commit `.env`. The sample records are illustrative:
+replace them with verified, current listings before presenting them as real
+local recommendations.
