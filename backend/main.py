@@ -5,9 +5,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import or_, select
 from sqlalchemy.orm import Session
 
-from database import get_db
+from database import Base, engine, get_db
 from models import Resource
 
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="Ankommen API",
