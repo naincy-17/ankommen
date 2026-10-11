@@ -211,7 +211,7 @@ function App() {
                     {resource.website ? (
                       <a href={resource.website} target="_blank" rel="noreferrer">Visit website <span aria-hidden="true">↗</span></a>
                     ) : (
-                      <span className="demo-label">Demo listing</span>
+                      <span className="demo-label">Website unavailable</span>
                     )}
                   </div>
                 </div>
@@ -224,7 +224,7 @@ function App() {
       <footer id="about" className="footer">
         <span className="footer-brand">ankommen<span>.</span></span>
         <p>Helping a new place feel a little more like yours.</p>
-        <span className="demo-notice">Demo listings — please verify details before visiting.</span>
+        <span className="demo-notice">Some details are unverified. Data © OpenStreetMap contributors. Please confirm details before visiting.</span>
       </footer>
     </main>
   );

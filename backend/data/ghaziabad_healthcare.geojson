@@ -1,0 +1,4247 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-11T04:20:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351576781",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Dr. Rajiv Saxena",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3590343,
+          28.654815
+        ]
+      },
+      "id": "way/351576781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352429480",
+        "amenity": "hospital",
+        "building": "yes",
+        "check_date": "2024-08-06",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Kansal Hospital",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4208355,
+          28.6770581
+        ]
+      },
+      "id": "way/352429480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352730718",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4281053,
+          28.6702252
+        ]
+      },
+      "id": "way/352730718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352730796",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "F-56",
+        "addr:postcode": "201002",
+        "addr:street": "Hapur Road",
+        "amenity": "hospital",
+        "description": "Medical Diagnostic Centre - MRI, CT Scan, X-Ray, Ultrasound and Path Lab",
+        "email": "info@houseofdiagnostics.com",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "radiology;pathology;clinical_pathology;diagnostic_radiology",
+        "name": "HOD Ghaziabad - House Of Diagnostics",
+        "operator": "House Of Diagnostics",
+        "operator:type": "private",
+        "source": "local knowledge",
+        "website": "https://www.hod.care/locate-us/ghaziabad/ghaziabad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4279667,
+          28.6701836
+        ]
+      },
+      "id": "way/352730796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352742670",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "dermatology",
+        "layer": "-1",
+        "name": "harmukh clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3430659,
+          28.6857193
+        ]
+      },
+      "id": "way/352742670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352795914",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "layer": "1",
+        "name": "Homopathic medicines",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4370519,
+          28.664828
+        ]
+      },
+      "id": "way/352795914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454449753",
+        "addr:city": "Ghaziabad",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kazipura Dasna Road, Behind Akg Engg. College",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "addr:street": "National Highway 24 Bypass",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Dr. Ram Saran Garg Indo-German Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5043269,
+          28.6726216
+        ]
+      },
+      "id": "way/454449753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571595057",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3698195,
+          28.6342666
+        ]
+      },
+      "id": "node/571595057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/956482402",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Dr.Bali",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4351015,
+          28.6647587
+        ]
+      },
+      "id": "way/956482402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1086642598",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "SHIKHA ACUPUNCTURE SANATORIUM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4717634,
+          28.6539567
+        ]
+      },
+      "id": "way/1086642598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1153085078",
+        "amenity": "doctors",
+        "name": "Shanti Gopal Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3790623,
+          28.6418773
+        ]
+      },
+      "id": "node/1153085078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1153428592",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3329568,
+          28.6346631
+        ]
+      },
+      "id": "way/1153428592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1257921916",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Apollo Clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3611181,
+          28.6354868
+        ]
+      },
+      "id": "way/1257921916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1297129473",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Navin Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4400609,
+          28.6932077
+        ]
+      },
+      "id": "way/1297129473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1297133496",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shyam Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5122291,
+          28.7715549
+        ]
+      },
+      "id": "way/1297133496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302897714",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Muradnagar Metro Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5110954,
+          28.7713484
+        ]
+      },
+      "id": "way/1302897714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355998753",
+        "addr:district": "Ghaziabad",
+        "addr:full": "H-1, Kaushambi, Near Anand Vihar ISBT",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "email": "admin.yhk@yashodahospital.org",
+        "emergency": "yes",
+        "name": "Yashoda Super Speciality Hospital, Anand Vihar",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.yashodahospital.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3287535,
+          28.6450931
+        ]
+      },
+      "id": "node/1355998753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355999060",
+        "amenity": "pharmacy",
+        "name": "Vikas Mediacl Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3204776,
+          28.6408743
+        ]
+      },
+      "id": "node/1355999060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1408808783",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Manipal Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4722731,
+          28.6552488
+        ]
+      },
+      "id": "way/1408808783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1408818183",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4602857,
+          28.6780186
+        ]
+      },
+      "id": "way/1408818183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1409201613",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yashoda Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4382019,
+          28.6599186
+        ]
+      },
+      "id": "way/1409201613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1413022854",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ESIC Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3467537,
+          28.6856828
+        ]
+      },
+      "id": "way/1413022854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1413084864",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yashoda Superspeciality Hospital & Cancer Institute",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4511697,
+          28.6877617
+        ]
+      },
+      "id": "way/1413084864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1548186958",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yashoda Medicity",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.377579,
+          28.6462502
+        ]
+      },
+      "id": "way/1548186958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1738096147",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Plot No NH -01 Ahinsakhand -II, Indirapuram",
+        "addr:postcode": "201014",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shanti Gopal Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3792669,
+          28.6418223
+        ]
+      },
+      "id": "node/1738096147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743184050",
+        "amenity": "pharmacy",
+        "name": "Neelkanth",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3794073,
+          28.6417646
+        ]
+      },
+      "id": "node/1743184050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316266551",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy",
+        "operator": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3620199,
+          28.639222
+        ]
+      },
+      "id": "node/3316266551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3527396166",
+        "amenity": "hospital",
+        "name": "awasthi hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3713857,
+          28.6526314
+        ]
+      },
+      "id": "node/3527396166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813078061",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3607146,
+          28.6393915
+        ]
+      },
+      "id": "node/3813078061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3824723605",
+        "addr:city": "Indirapuram",
+        "addr:housenumber": "A-102, Ahinsa Khand-1",
+        "addr:postcode": "201014",
+        "addr:street": "Dr. Sushila Naiyar Marg",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Shweta Nihalani ( Dentist in Indirapuram)",
+        "opening_hours": "18:00-20:00",
+        "phone": "9811397879",
+        "website": "http://dentistinindirapuram.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3605586,
+          28.6393065
+        ]
+      },
+      "id": "node/3824723605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3901053082",
+        "amenity": "clinic",
+        "description": "Orthopedic",
+        "name": "Dr. Achal Swami",
+        "opening_hours": "Mo-Sa 09:30-12:30,17:30-08:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4336922,
+          28.6723029
+        ]
+      },
+      "id": "node/3901053082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258202994",
+        "addr:city": "Ghaziabad",
+        "addr:district": "Indirapuram",
+        "addr:housename": "Shipra Vista Plaza",
+        "addr:postcode": "201014",
+        "addr:street": "Doctor Sushila Naiyar Marg",
+        "addr:subdistrict": "Ahinsa Khand 1",
+        "addr:unit": "19",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "level": "1",
+        "name": "Eye7 Chaudhary Eye Centre",
+        "phone": "+91-97178-96108",
+        "website": "https://www.eye7.in/network-hospitals/eye7-chaudhary-eye-centre-indirapuram/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.373357,
+          28.6395242
+        ]
+      },
+      "id": "node/4258202994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562908189",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4392583,
+          28.6622833
+        ]
+      },
+      "id": "node/4562908189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863477921",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "Vardan Multi Speciality Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4452126,
+          28.7068603
+        ]
+      },
+      "id": "node/4863477921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200574281",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "gynaecology;paediatrics",
+        "name": "Aradhya Clinic",
+        "operator": "Dr. Rajiv Singh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3756869,
+          28.6360093
+        ]
+      },
+      "id": "node/5200574281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135434",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3760252,
+          28.6371339
+        ]
+      },
+      "id": "node/5455135434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5531799828",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Doctor Chander Lata",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.330627,
+          28.667554
+        ]
+      },
+      "id": "node/5531799828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5534226218",
+        "amenity": "doctors",
+        "name": "Dr Lal Path Labs",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.322127,
+          28.663813
+        ]
+      },
+      "id": "node/5534226218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5534307413",
+        "amenity": "pharmacy",
+        "name": "Om Medicos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.323046,
+          28.6645034
+        ]
+      },
+      "id": "node/5534307413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6352740524",
+        "amenity": "pharmacy",
+        "brand": "Apollo Pharmacy",
+        "brand:wikidata": "Q62562612",
+        "healthcare": "pharmacy",
+        "name": "Apollo Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3689305,
+          28.6383442
+        ]
+      },
+      "id": "node/6352740524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7009263589",
+        "addr:district": "Mahendragarh",
+        "addr:full": "Railway Road, Nizampur, Mandi",
+        "addr:postcode": "123001",
+        "addr:state": "Haryana",
+        "amenity": "hospital",
+        "name": "Dr Fateh Singh Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3412971,
+          28.6471512
+        ]
+      },
+      "id": "node/7009263589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018011421",
+        "addr:district": "Gautam Buddha Nagar",
+        "addr:full": "D-5, Sector-12, Noida",
+        "addr:postcode": "201301",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "4238910",
+        "name": "Sakshi Medicare",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4169093,
+          28.6863918
+        ]
+      },
+      "id": "node/7018011421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018026517",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Indrapuri Extn. Near Shanti Nagar Bus Stand",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Mavi Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2881059,
+          28.7259864
+        ]
+      },
+      "id": "node/7018026517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018033056",
+        "addr:district": "Ghaziabad",
+        "addr:full": "4, Dasna Road, Near Maliwara Chowk",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Chandra Laxmi Hospital, Maliwara Chowk",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4325258,
+          28.666936
+        ]
+      },
+      "id": "node/7018033056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018070850",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Near Atal Chowk Vasundhara",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shree Krishna Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3603535,
+          28.6520842
+        ]
+      },
+      "id": "node/7018070850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018108341",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Se-12 Shastri Nagar",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Navjeevan Nursing Home, Shastri Nagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4736266,
+          28.6763705
+        ]
+      },
+      "id": "node/7018108341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018137209",
+        "addr:district": "Meerut",
+        "addr:full": "Near Amber Cinema G. T. Road, Modinagar",
+        "addr:postcode": "250003",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Lokpriya Hospital, Modinagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5819744,
+          28.8416405
+        ]
+      },
+      "id": "node/7018137209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342523",
+        "addr:district": "Ghaziabad",
+        "addr:full": "No. 2, Laxmi Vihar Colony, Maliwara Road",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Lokpriya Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4346152,
+          28.6675714
+        ]
+      },
+      "id": "node/7018342523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342549",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Ii-C-218, Nehru Nagar, Near Water Tank",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sood Nursing Home, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.437638,
+          28.665804
+        ]
+      },
+      "id": "node/7018342549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342570",
+        "addr:district": "Ghaziabad",
+        "addr:full": "2-G Sewa Nagar Meerut Road",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Jai Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4211961,
+          28.6779906
+        ]
+      },
+      "id": "node/7018342570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342587",
+        "addr:district": "Ghaziabad",
+        "addr:full": "481,Friends Society Sector-12 Vasundhara",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Param Jyoti Eye Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3587207,
+          28.6574453
+        ]
+      },
+      "id": "node/7018342587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342610",
+        "addr:district": "Ghaziabad",
+        "addr:full": "B-137, Patel Nagar -Ii",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Meha Maternity and Pain Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4200581,
+          28.6763916
+        ]
+      },
+      "id": "node/7018342610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342625",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Iii-B-2,Nehru Nagar, Near Holychild Chowk",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Vardhman Medicare",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.442312,
+          28.6627578
+        ]
+      },
+      "id": "node/7018342625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342677",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-83, Patel Nagar-I",
+        "addr:postcode": "201003",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Bhagwati Upchaar Kendra",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4291381,
+          28.670379
+        ]
+      },
+      "id": "node/7018342677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018562712",
+        "addr:district": "Ghaziabad",
+        "addr:full": "D -3, 1st Flr, Sec 4,Vaishali",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Ranjan's Gynae and Eye Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3356269,
+          28.6371608
+        ]
+      },
+      "id": "node/7018562712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018564222",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sector 10,near St Pauls Academy, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "2752440",
+        "name": "Vardan Eye Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4460183,
+          28.6865836
+        ]
+      },
+      "id": "node/7018564222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018620981",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Vill. Massori, P.O. Dasna",
+        "addr:postcode": "201015",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Holy Cross Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5530255,
+          28.6885725
+        ]
+      },
+      "id": "node/7018620981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018738271",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-85, Patel Nagar- 1",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Krishna Hospital and Trauma Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4289886,
+          28.6703284
+        ]
+      },
+      "id": "node/7018738271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018939993",
+        "addr:district": "Ghaziabad",
+        "addr:full": "137 Niti Khand-2 Opposite Ghaziabad, Indirapuram",
+        "addr:postcode": "201014",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Avantika Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3717563,
+          28.6455529
+        ]
+      },
+      "id": "node/7018939993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019130160",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sm-73, Shastri Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Apex Multi Speciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4638459,
+          28.6678491
+        ]
+      },
+      "id": "node/7019130160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019995876",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Nh-24,Harpur Road, Pandav Nagar Ind Area, Opp Village Bahmeta",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Manipal hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4724531,
+          28.6551434
+        ]
+      },
+      "id": "node/7019995876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019995882",
+        "addr:district": "Ghaziabad",
+        "addr:full": "III-M-17, Nehru Nagar, Opp Paras Hotel, Ambedkar Road",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Mittal Hospital and Diagnostic Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4282107,
+          28.6701642
+        ]
+      },
+      "id": "node/7019995882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020001187",
+        "addr:district": "Ghaziabad",
+        "addr:full": "68,West Model Town,G.T Road",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Mithlesh Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4365316,
+          28.6526097
+        ]
+      },
+      "id": "node/7020001187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020446795",
+        "addr:district": "Ghaziabad",
+        "addr:full": "360 A Ram Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr. Ravi Prakash Sharma",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4338602,
+          28.6579608
+        ]
+      },
+      "id": "node/7020446795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020474636",
+        "addr:district": "Ghaziabad",
+        "addr:full": "D-494, Lajpat Nagar, Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shiv Krishna Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3702958,
+          28.6861947
+        ]
+      },
+      "id": "node/7020474636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020669954",
+        "addr:district": "Ghaziabad",
+        "addr:full": "I.T.S Dental College Campus, Muradnagar",
+        "addr:postcode": "201206",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:mobile": "9999353800",
+        "healthcare": "hospital",
+        "name": "I T S Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4956381,
+          28.7524589
+        ]
+      },
+      "id": "node/7020669954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020768213",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-2/227, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Tyagi Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4412268,
+          28.6809262
+        ]
+      },
+      "id": "node/7020768213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020925916",
+        "addr:district": "Ghaziabad",
+        "addr:full": "CGHS Dispensary No.68,Kamla Nehru Nagar",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "CGHS Dispensary, Kamla Nehru Nagar",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4634999,
+          28.6805831
+        ]
+      },
+      "id": "node/7020925916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020925967",
+        "addr:district": "Ghaziabad",
+        "addr:full": "B-58 , Govind Puram Gzd",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sohan Nursing Home and Maternity Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4918348,
+          28.6816651
+        ]
+      },
+      "id": "node/7020925967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020926045",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sb- 22 & 23, Shastri Nagar, Main Hapur Road, Near Hapur Chungi",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Heera Lal Hospital and Heart Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4617296,
+          28.6745067
+        ]
+      },
+      "id": "node/7020926045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021030803",
+        "addr:district": "Ghaziabad",
+        "addr:full": "10D-180, Vasundra",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Prem Dharam Hospital and Diagnostics",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.367961,
+          28.6600937
+        ]
+      },
+      "id": "node/7021030803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021222684",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Ii -C/3 New Kalka Garhi Nehru Nagar Road Nehru Nagar - Ii",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Ganesh Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.439385,
+          28.6623575
+        ]
+      },
+      "id": "node/7021222684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021248743",
+        "addr:district": "Ghaziabad",
+        "addr:full": "14A/636, Vasundhara, Ghaziabad,Opposite Sahibabad Sabzi Mandi",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Jain Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.360141,
+          28.661683
+        ]
+      },
+      "id": "node/7021248743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021267999",
+        "addr:district": "Ghaziabad",
+        "addr:full": "5 No, Jagni Ganj, Ghantaghar",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "City Central Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4269811,
+          28.6603055
+        ]
+      },
+      "id": "node/7021267999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022093963",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sd-200, Shastri Nagar Opposite Cbi Acadamy",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Prime Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4664289,
+          28.6740831
+        ]
+      },
+      "id": "node/7022093963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022320908",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Main Shani Nagar ,Bus Stand, Loni Road ,Loni",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Gopal Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2893602,
+          28.7258364
+        ]
+      },
+      "id": "node/7022320908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022535115",
+        "addr:district": "Ghaziabad",
+        "addr:full": "G-34, Sec-11, Pratap Vihar",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Krishna Family Hospital and Infertility Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.411115,
+          28.6537077
+        ]
+      },
+      "id": "node/7022535115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022618281",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Swasthya Vihar, Modinagar",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "2242991",
+        "name": "Sarvodaya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5815225,
+          28.8398784
+        ]
+      },
+      "id": "node/7022618281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024789109",
+        "addr:district": "Ghaziabad",
+        "addr:full": "108, New Gandhi Nagar,Nehru Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr. Roopa Kaushik",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4374302,
+          28.6577254
+        ]
+      },
+      "id": "node/7024789109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024789288",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Vandna Enclave, Khoda Colony",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Aasha Deep Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3394397,
+          28.6875033
+        ]
+      },
+      "id": "node/7024789288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024811606",
+        "addr:district": "Ghaziabad",
+        "addr:full": "B-22, Sector-09, New Vijay Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Dr. Rani Ghai Hospital Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4272177,
+          28.6439075
+        ]
+      },
+      "id": "node/7024811606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024843760",
+        "addr:district": "Ghaziabad",
+        "addr:full": "5, Gangapuram , Opposite Govindpuram Petrol Pump",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:mobile": "9311739107",
+        "name": "Shivalik Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4911327,
+          28.6796341
+        ]
+      },
+      "id": "node/7024843760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024849103",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-70, Patel Nagar-I,Hapur Rd",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "name": "Dr. Rakesh Taneja",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4304739,
+          28.6705426
+        ]
+      },
+      "id": "node/7024849103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024852288",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A-12, Chander Nagar",
+        "addr:postcode": "201011",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "2622923",
+        "healthcare": "hospital",
+        "name": "S.S. Medicare Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3310229,
+          28.6661429
+        ]
+      },
+      "id": "node/7024852288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024891210",
+        "addr:district": "Ghaziabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Trisal Netralaya And Phaco Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580775,
+          28.8409196
+        ]
+      },
+      "id": "node/7024891210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024906924",
+        "addr:district": "Ghaziabad",
+        "addr:full": "13, Prem Enclave, Meerut Road, Opposite Dps",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "0120 2706124",
+        "name": "Kailash Medicare and Research Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4367192,
+          28.6912702
+        ]
+      },
+      "id": "node/7024906924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024933937",
+        "addr:district": "Ghaziabad",
+        "addr:full": "1/465 Nyay Khand-Ist Indirapuram",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Kalawati Memorial Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3532185,
+          28.6374372
+        ]
+      },
+      "id": "node/7024933937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025001144",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Si-B,Shahstri Nagar Near Oriental Bank",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Vardaan Nursing and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4570747,
+          28.6695412
+        ]
+      },
+      "id": "node/7025001144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025113021",
+        "addr:district": "Ghaziabad",
+        "addr:full": "NH-1, Sctor-6, Vaishali",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Aarogya Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3516937,
+          28.6481363
+        ]
+      },
+      "id": "node/7025113021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025113030",
+        "addr:district": "Ghaziabad",
+        "addr:full": "236,Main Shaym Park,Near Ramlila Maidan Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sanjivani Maternity and Nursing Home Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3698917,
+          28.6756803
+        ]
+      },
+      "id": "node/7025113030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025117453",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Ii-F/172, Ambedkar Road, Neharu Nagar, Kalka Garhi Chowk",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pannalal Shyamlal Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4351072,
+          28.6633309
+        ]
+      },
+      "id": "node/7025117453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025136072",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-9/1, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Pulmonic Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.450742,
+          28.6865262
+        ]
+      },
+      "id": "node/7025136072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025223722",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-13/24, Raj Nagar Opposite Alt Centre",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sharnam Eye Centre and Laser Services",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4530001,
+          28.6805275
+        ]
+      },
+      "id": "node/7025223722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025407258",
+        "addr:district": "Ghaziabad",
+        "addr:full": "G.T. Road, Modi Nagar",
+        "addr:postcode": "201201",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "jeevan hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5806252,
+          28.840705
+        ]
+      },
+      "id": "node/7025407258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025610751",
+        "addr:district": "Ghaziabad",
+        "addr:full": "S-19,Shalimar Garden Extention I,Dayanand Park,G",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Getwell physiotherapy center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3416096,
+          28.6921759
+        ]
+      },
+      "id": "node/7025610751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025804773",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Plot No-796/G-2,80Ft,Road,Ext.-1 OppositeGayatri Bhawan Shalimar Garden",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sparsh Multispeciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3397857,
+          28.6927335
+        ]
+      },
+      "id": "node/7025804773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025849063",
+        "addr:district": "Ghaziabad",
+        "addr:full": "B-13 Kaushambi",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Meenakshi Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3257148,
+          28.642142
+        ]
+      },
+      "id": "node/7025849063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025924014",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kc-157,Kavi Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Rizvi Surgical Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4490426,
+          28.6724376
+        ]
+      },
+      "id": "node/7025924014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7026434076",
+        "addr:district": "Ghaziabad",
+        "addr:full": "2 A, Shyam Bagh Extn, Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sahibabad Medicare Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3657387,
+          28.6783954
+        ]
+      },
+      "id": "node/7026434076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027347754",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Ii Rh, Hig, Duplex-6, Near Esi Hospital, OppositeLohiya Park Sector-2 Rajindera Nagar Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "New Vision Eye and Medical Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3551735,
+          28.6837476
+        ]
+      },
+      "id": "node/7027347754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027411289",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-5/49B. Raj Nagar,Near Sanatass Dharm Mandir",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shri Raghuwar Shyam Hospital and Research Centre Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4442175,
+          28.6818957
+        ]
+      },
+      "id": "node/7027411289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027531400",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Plot No-119, Sector Iv, Vaishali (Between Shoprix Mall & Paras Hospital)",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Drishti Eye Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3418112,
+          28.6441329
+        ]
+      },
+      "id": "node/7027531400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027606290",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sector - 5/699 , Vaishali",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Tewari Eye Centre, Vaishali",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3470599,
+          28.6463402
+        ]
+      },
+      "id": "node/7027606290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027606300",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-154,Patel Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Tej Nursing Home and Surgical Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4287846,
+          28.6711245
+        ]
+      },
+      "id": "node/7027606300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027683516",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-66, Patel Nagar-1",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Dr. Ajit Dinker's Centre For Ultrasound",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4301839,
+          28.6711126
+        ]
+      },
+      "id": "node/7027683516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027718160",
+        "addr:district": "Ghaziabad",
+        "addr:full": "M-34, Advocate Colony, Pratap Vihar",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Jeevanlok Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4157552,
+          28.6461731
+        ]
+      },
+      "id": "node/7027718160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027730417",
+        "addr:district": "Ghaziabad",
+        "addr:full": "1-A, Raj Kunj Colony, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "name": "Dr. Vipin K. Tyagi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4506038,
+          28.6768046
+        ]
+      },
+      "id": "node/7027730417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027732228",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kk-54 Kavi Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Brij Medical Centre, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4543169,
+          28.6690683
+        ]
+      },
+      "id": "node/7027732228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027732234",
+        "addr:district": "Ghaziabad",
+        "addr:full": "357, Jatwara, Dasna Road",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "name": "Dr. Arun Gupta",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4407852,
+          28.6849833
+        ]
+      },
+      "id": "node/7027732234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027743633",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R - 9 / 182, Near Alt Centre, Near Rajnagar , Sector 10 Market",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Gargi Hospital - Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4492252,
+          28.6831687
+        ]
+      },
+      "id": "node/7027743633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027783655",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Aditya Gold Trust, 101, 102, 103, 1st Floor, Plot C/GH3, Vaibhav Khand",
+        "addr:postcode": "201014",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sharp Sight Centre, Indirapuram",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.sharpsight.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3607058,
+          28.6362843
+        ]
+      },
+      "id": "node/7027783655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027783668",
+        "addr:district": "Ghaziabad",
+        "addr:full": "H-110, Sector -23, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "contact:phone": "2783428",
+        "name": "Sharma Nursing Home, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4515803,
+          28.6911391
+        ]
+      },
+      "id": "node/7027783668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027783673",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Loni Ghaziabad Road, Near Town Police Check Post, Loni",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:mobile": "9312916757",
+        "name": "Dharampal Memorial Hospital - Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2862246,
+          28.7486784
+        ]
+      },
+      "id": "node/7027783673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027819907",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-12/44, Raj Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Agrawal Maternity and Nursing home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4526592,
+          28.6827835
+        ]
+      },
+      "id": "node/7027819907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027859309",
+        "addr:district": "Ghaziabad",
+        "addr:full": "D-179, Sanjay Nagar Sector-23",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Vijay Clinic and Maternity Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4525958,
+          28.6911643
+        ]
+      },
+      "id": "node/7027859309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027903595",
+        "addr:district": "Ghaziabad",
+        "addr:full": "K- 112, Sec.12",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Saras Health Care Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4092596,
+          28.644829
+        ]
+      },
+      "id": "node/7027903595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027932255",
+        "addr:district": "Ghaziabad",
+        "addr:full": "# 342, Sector-4, Vaishali",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sarvodaya Hospital and Trauma Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3391154,
+          28.6449508
+        ]
+      },
+      "id": "node/7027932255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027961500",
+        "addr:district": "Ghaziabad",
+        "addr:full": "H No R 3/4 Near Railway Crossing Raj Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shivam Hospital and Heart Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4397045,
+          28.6841869
+        ]
+      },
+      "id": "node/7027961500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028065211",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Captain Suri Marg, Block H, Shastri Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Kasana Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4609283,
+          28.6707585
+        ]
+      },
+      "id": "node/7028065211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028152777",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Street No 1, Bank Colony, Near Amber Cinema, Modinagar",
+        "addr:postcode": "201201",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Priyadarshini Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5812207,
+          28.842383
+        ]
+      },
+      "id": "node/7028152777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028293108",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-62, Patel Nagar",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Poddar Nursing Home Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4313845,
+          28.6706673
+        ]
+      },
+      "id": "node/7028293108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028298210",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Shakti Khand- Iii, Plot No.-54, Indirapuram",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sparsh Medicare and Trauma Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.364914,
+          28.6501229
+        ]
+      },
+      "id": "node/7028298210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028455910",
+        "addr:district": "Ghaziabad",
+        "addr:full": "364, Ak- 3, Near St.Fracis School, Indirapuram",
+        "addr:postcode": "201014",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Nidaan Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.345653,
+          28.6395126
+        ]
+      },
+      "id": "node/7028455910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028455911",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Gali O. 2, Bank Colony Upper Bazar, Modinagar",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Dube Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.580522,
+          28.8415865
+        ]
+      },
+      "id": "node/7028455911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028478538",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-11. Sector 12. Vakeel Colony",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Astha Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4210157,
+          28.6454722
+        ]
+      },
+      "id": "node/7028478538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028505213",
+        "addr:district": "Ghaziabad",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shakuntala Hospital Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5809699,
+          28.84122
+        ]
+      },
+      "id": "node/7028505213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028667949",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Opp Ambar Cinema, G.T. Road Modinagar",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Akash Hospital and E.N.T Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820716,
+          28.8417791
+        ]
+      },
+      "id": "node/7028667949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028759340",
+        "addr:district": "Ghaziabad",
+        "addr:full": "House No. 70, Gadhi Katiya Road Khanna Nagar , Loni",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sai Baba Nursing Home, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2828002,
+          28.7560572
+        ]
+      },
+      "id": "node/7028759340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028806719",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A-111/1& 2 Shyam Park Ext. Opposite Hanuman Mandir Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "name": "Dr. Bharat S. Rastogi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3727977,
+          28.6767929
+        ]
+      },
+      "id": "node/7028806719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7029003729",
+        "addr:district": "Ghaziabad",
+        "addr:full": "C-A/6, Old Kavi Nagar, Harpur Road",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Akhilesh Gaumat Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4458992,
+          28.6722534
+        ]
+      },
+      "id": "node/7029003729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7029523751",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A-19, Sector 23, Sanjay Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Singh Ortho Maternity Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4486887,
+          28.6933217
+        ]
+      },
+      "id": "node/7029523751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030526545",
+        "addr:district": "Ghaziabad",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:mobile": "9219405460",
+        "healthcare": "hospital",
+        "name": "Jeevan Hospital and Stone Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5811597,
+          28.8413498
+        ]
+      },
+      "id": "node/7030526545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030633268",
+        "addr:district": "Ghaziabad",
+        "addr:full": "E-230, Sec-9, Near P.S.Vijay Nagar",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Uttam Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.422169,
+          28.6452075
+        ]
+      },
+      "id": "node/7030633268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030696544",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-70, Patel Nagar-I",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Dr. Rakesh Taneja's clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4304456,
+          28.6705619
+        ]
+      },
+      "id": "node/7030696544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030703289",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-69, Patel Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Ghaziabad Orthopaedic Clinic",
+        "phone": "6500396",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.430567,
+          28.6705494
+        ]
+      },
+      "id": "node/7030703289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030705676",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A-49, Patel Nagar-II , Near Bus Stand",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sri Hari Hospital and Stone Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4177649,
+          28.6715608
+        ]
+      },
+      "id": "node/7030705676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030999391",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Fa-221, Sector-4, Lajpat Nagar, Sahibabad",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Gupta Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3670463,
+          28.6827315
+        ]
+      },
+      "id": "node/7030999391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031006667",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-71, Pratap Nagar, Secto-12, OppositeTaposthali School",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jeevan Jyoti Hospital and Diagnostic Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4124877,
+          28.6469801
+        ]
+      },
+      "id": "node/7031006667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031006669",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Delhi Meerut Road, NH 58, Kadrabad, Modinagar",
+        "addr:postcode": "201201",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "IDST Mayo Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6087703,
+          28.8770476
+        ]
+      },
+      "id": "node/7031006669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031035884",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sh 298, Shastri Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "contact:phone": "2712630",
+        "name": "Suraj Maternity Fracture Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4615231,
+          28.671188
+        ]
+      },
+      "id": "node/7031035884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031530453",
+        "addr:district": "Ghaziabad",
+        "addr:full": "1, Ambedkar Road",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Santosh Medical and Dental College Hospitals",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4085039,
+          28.6488083
+        ]
+      },
+      "id": "node/7031530453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031558968",
+        "addr:district": "Ghaziabad",
+        "addr:full": "8 Feet Road , Shalimar Garden Extension I, Shalimar Garden",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Parakh Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3396918,
+          28.6934335
+        ]
+      },
+      "id": "node/7031558968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031610785",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kc-120, Kavi Nagar, ghaziabad",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "1204233366",
+        "name": "Sunetra Eye, Laser and Dental Care Centre",
+        "source": "OpenGovernmentData",
+        "website": "https://www.sunetra.co.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4492574,
+          28.6711297
+        ]
+      },
+      "id": "node/7031610785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031844632",
+        "addr:district": "Ghaziabad",
+        "addr:full": "R-13/82, Raj Nagar",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Dr. Sanjeev Anand Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4508835,
+          28.6786419
+        ]
+      },
+      "id": "node/7031844632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033516100",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kj - 7, Kavi Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sarvodaya Hospital and Research Centren",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4555914,
+          28.666846
+        ]
+      },
+      "id": "node/7033516100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034701079",
+        "addr:district": "Ghaziabad",
+        "addr:full": "8/44, Sec.3, Rajendra Nagar, Sahibabad",
+        "addr:postcode": "201004",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Rajendrs Nursing and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3614727,
+          28.6881394
+        ]
+      },
+      "id": "node/7034701079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034888054",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A 24 Ashok Nagar , Near Holy Child School",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "City Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4440707,
+          28.6617995
+        ]
+      },
+      "id": "node/7034888054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034914349",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Iii-A/311, (80 Feet Road), Near Dnb, Vaishali",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pulse Medicare",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3412821,
+          28.6405677
+        ]
+      },
+      "id": "node/7034914349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034980680",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Main Gzb. Road, Bagh Ranap, Near Loni Station",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "City Hospital - Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3143986,
+          28.7387381
+        ]
+      },
+      "id": "node/7034980680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035025470",
+        "addr:district": "Ghaziabad",
+        "addr:full": "J-2, Sec-12, Near Electrity House, Partap Vihar",
+        "addr:postcode": "201009",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Dr. Mala Sharma",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4105571,
+          28.6519941
+        ]
+      },
+      "id": "node/7035025470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035164731",
+        "addr:district": "Ghaziabad",
+        "addr:full": "183, Sarvodaya Nagar, Vijay Nagar, By Pass Chowk",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shree Tilak Hospital and Trauma Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4164055,
+          28.6429168
+        ]
+      },
+      "id": "node/7035164731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035329353",
+        "addr:district": "Ghaziabad",
+        "addr:full": "B-Block Market, Kaui Nagar, Next To Sbi",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Manav Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4453996,
+          28.666913
+        ]
+      },
+      "id": "node/7035329353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035396480",
+        "addr:district": "Ghaziabad",
+        "addr:full": "914, Niti Khand-1 Indirapuram",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Eternity Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3622827,
+          28.6415217
+        ]
+      },
+      "id": "node/7035396480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035680845",
+        "addr:district": "Ghaziabad",
+        "addr:full": "II-M, Nehru Nagar, Delhi-NCR",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "email": "admin.nn@yashodahospital.org",
+        "healthcare": "hospital",
+        "name": "Yashoda Super speciality Hospital",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.yashodahospital.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4385178,
+          28.6600637
+        ]
+      },
+      "id": "node/7035680845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035744523",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Kf-113, Kavi Nagar ( Near `F ` Nlock Market)",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Anand Nursing Home Orthopaedic Centre and Maernity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.449201,
+          28.6622837
+        ]
+      },
+      "id": "node/7035744523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035825553",
+        "addr:district": "Ghaziabad",
+        "addr:full": "No. 23 A, Ganga Complex, Shalimar Garden, Ext -I, Sahibabad (Budh Bazar Road)",
+        "addr:postcode": "201005",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Swami Nand Lal Jee Hospital Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3447263,
+          28.6937758
+        ]
+      },
+      "id": "node/7035825553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7036050227",
+        "addr:district": "Ghaziabad",
+        "addr:full": "N. B. B-1, Lohia Nagar,N.H.B-1, Lohia Nagar,OppositeHindi Bhavan",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Nagar Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4359617,
+          28.6728959
+        ]
+      },
+      "id": "node/7036050227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7036238981",
+        "addr:district": "Ghaziabad",
+        "addr:full": "324, Sector 2B, Vasundhara",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Aakash Medicare",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3800188,
+          28.6705931
+        ]
+      },
+      "id": "node/7036238981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037315938",
+        "addr:district": "Ghaziabad",
+        "addr:full": "2C/9, motilal Nehru Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "doctors",
+        "name": "Dr. Vandana Agarwal",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.440217,
+          28.6624507
+        ]
+      },
+      "id": "node/7037315938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037553684",
+        "addr:district": "Ghaziabad",
+        "addr:full": "23, Railway Road, Hapur",
+        "addr:postcode": "201011",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sanjeevani Nursing Home, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3604768,
+          28.6886094
+        ]
+      },
+      "id": "node/7037553684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037751988",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sh-283, Shastri Nagar",
+        "addr:postcode": "201002",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "contact:phone": "2752706",
+        "name": "Verma Nursing Homeand Reliance Daignostic Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4608706,
+          28.6700603
+        ]
+      },
+      "id": "node/7037751988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037752003",
+        "addr:district": "Ghaziabad",
+        "addr:full": "D-9, Patel Nagar2",
+        "addr:postcode": "201003",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "contact:phone": "2733804",
+        "name": "Sanjivani Nursing Home, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4186558,
+          28.6717225
+        ]
+      },
+      "id": "node/7037752003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037813514",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sector-11, B/125, Vaishali",
+        "addr:postcode": "201012",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vaishali Health Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3385546,
+          28.6376181
+        ]
+      },
+      "id": "node/7037813514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7038575956",
+        "addr:district": "Ghaziabad",
+        "addr:full": "3-D/20, Nehru Nagar",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ahuja E.N.T. Centre and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4421167,
+          28.6607074
+        ]
+      },
+      "id": "node/7038575956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7038580344",
+        "addr:district": "Ghaziabad",
+        "addr:full": "A-5, Hig Duplex, Brij Vihar, Post Chandernagar",
+        "addr:postcode": "201011",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "contact:mobile": "9811944525",
+        "healthcare": "clinic",
+        "name": "Kaushik Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3316841,
+          28.6701437
+        ]
+      },
+      "id": "node/7038580344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7038608967",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Ka-Block, Near Metro Station Kaushambi",
+        "addr:postcode": "201010",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Kamal Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3253943,
+          28.6446849
+        ]
+      },
+      "id": "node/7038608967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7038662654",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Nh-24,26/27 Km Stone, Delhi Hapur Bye Pass",
+        "addr:postcode": "245101",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Raghubir Hospital Pvt. Ltd.",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4964964,
+          28.6747244
+        ]
+      },
+      "id": "node/7038662654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039962713",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Near Ghanta Ghar, G T Road",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "District Hospital, Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.456156,
+          28.6890065
+        ]
+      },
+      "id": "node/7039962713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7173737316",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Sarai Nazar Ali, Madhopura, Ghaziabad, Gaushala Rd, Bihari Pura",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "healthcare": "hospital",
+        "name": "DISTRICT MMG MALE HOSPITAL",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4234813,
+          28.6623585
+        ]
+      },
+      "id": "node/7173737316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7184266117",
+        "addr:block": "Muradnagar",
+        "addr:district": "Ghaziabad",
+        "addr:full": "NIWARI,MURADNAGAR",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "addr:subdistrict": "Modinagar",
+        "amenity": "hospital",
+        "description": "Government Hospital",
+        "name": "NPHC Niwari",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.540997,
+          28.8695042
+        ]
+      },
+      "id": "node/7184266117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7188358522",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Near Delhi Gate, Ghaziabad, Ghaziabad, Gaushala Rd, Bihari Pura",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "healthcare": "hospital",
+        "name": "District Women Hospital Ghaziabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4222234,
+          28.6614276
+        ]
+      },
+      "id": "node/7188358522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7200423020",
+        "addr:block": "Loni",
+        "addr:district": "Ghaziabad",
+        "addr:postcode": "201102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "Government Hospital",
+        "name": "Government Hospital Chirodi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3337869,
+          28.7792015
+        ]
+      },
+      "id": "node/7200423020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7205469172",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Hotel Fortune Inn, Ghaziabad, P Block, Sec 23, Sanjay Nagar, Near ALT Bus Stand",
+        "addr:postcode": "201001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District combind hospital sanjay nagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4541484,
+          28.6859053
+        ]
+      },
+      "id": "node/7205469172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234588285",
+        "amenity": "doctors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3610787,
+          28.6580831
+        ]
+      },
+      "id": "node/7234588285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7488942335",
+        "addr:district": "Ghaziabad",
+        "addr:full": "Modinagar",
+        "addr:postcode": "201204",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sarkari Ayu Hospital, Begmabad",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571386,
+          28.8379216
+        ]
+      },
+      "id": "node/7488942335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7944515382",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Anita's clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3756924,
+          28.6360396
+        ]
+      },
+      "id": "node/7944515382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266759426",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "2nd Floor",
+        "addr:postcode": "201014",
+        "addr:street": "Gc 204, Aditya Gold Crest , Above Nathu Sweets, Vaibhav Khand, Indirapuram",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Platinum Orthopedic & Diagnostic Center",
+        "website": "https://www.drvishalortho.com/drvishalortho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3604566,
+          28.6362159
+        ]
+      },
+      "id": "node/8266759426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266858285",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "LG 05",
+        "addr:postcode": "201014",
+        "addr:street": "Amrapali Greens Market, Vaibhav Khand 1, Indrapuram",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Aditya Orthopaedics Clinic",
+        "website": "https://www.drnitinsrivastavaorthosurgeon.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3641493,
+          28.6347048
+        ]
+      },
+      "id": "node/8266858285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8266909244",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "W-3",
+        "addr:postcode": "201012",
+        "addr:street": "Near Radisson Blu Hotel, Sector 1, Vaishali",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "SR._CONSULTANT_ORTHOPAEDICS;JOINT_REPLACEMENTS_AND_ARTHROSCOPY_SURGEON",
+        "name": "Max Superspeciality Hospital",
+        "website": "https://www.jointsurgerydelhi.com/dr-nikunj-agrawal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3330229,
+          28.6346135
+        ]
+      },
+      "id": "node/8266909244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8911103217",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr.Arun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4353902,
+          28.6646168
+        ]
+      },
+      "id": "node/8911103217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8911103220",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "homopathic medicine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4370461,
+          28.6648428
+        ]
+      },
+      "id": "node/8911103220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9103840592",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Santoshi Medicos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3694578,
+          28.6373924
+        ]
+      },
+      "id": "node/9103840592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653198725",
+        "addr:city": "Ghaziabad",
+        "addr:postcode": "201014",
+        "addr:street": "The Surgicare, 109A, 1st floor Rajhans Plaza, Kala pathar road Opposite Aditya mega mall, Ahinsa Khand 1, Indirapuram, Uttar Pradesh, India",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "rheumatology",
+        "name": "Rheuma Clinic",
+        "opening_hours": "Mo,We,Fr 18:00-20:00",
+        "operator": "Novosalus",
+        "operator:type": "private",
+        "website": "https://www.drsauvikdasgupta.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3607776,
+          28.6396489
+        ]
+      },
+      "id": "node/9653198725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787375559",
+        "amenity": "hospital",
+        "description": "Eye hospital",
+        "healthcare": "hospital",
+        "name": "Centre for Sight",
+        "phone": "+9101142504250",
+        "website": "https://www.centreforsight.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3786785,
+          28.6476839
+        ]
+      },
+      "id": "node/9787375559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10956661880",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "Dr B K Jain, 343",
+        "addr:postcode": "201014",
+        "addr:street": "Padmana Naidu Marg,Shakti Khand III, Indirapuram",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Arihant Ortho & Truma Center",
+        "operator": "Novosolus",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3684336,
+          28.6479681
+        ]
+      },
+      "id": "node/10956661880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10956709241",
+        "addr:city": "Ghaziabad",
+        "addr:housenumber": "A 211 2nd floor",
+        "addr:postcode": "201014",
+        "addr:street": "Rajhans plaza Near aditya mall, Indirapuram",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr Sanyam Jain's Spine Cure Clinic",
+        "operator": "Novosalus",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3602066,
+          28.6393999
+        ]
+      },
+      "id": "node/10956709241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10959514280",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Flores Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4113195,
+          28.6579873
+        ]
+      },
+      "id": "node/10959514280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10959514281",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medha Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4122774,
+          28.6572794
+        ]
+      },
+      "id": "node/10959514281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11559662593",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mahi Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4443117,
+          28.6467176
+        ]
+      },
+      "id": "node/11559662593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11569376996",
+        "amenity": "pharmacy",
+        "brand": "Pradhan Mantri Bharatiya Janaushadhi Pariyojana Kendra",
+        "brand:wikidata": "Q39058281",
+        "healthcare": "pharmacy",
+        "name": "Jan Aushadhi",
+        "official_name": "Pradhan Mantri Bharatiya Janaushadhi Pariyojana Kendra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4437515,
+          28.6484189
+        ]
+      },
+      "id": "node/11569376996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687787409",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jeevan hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5816424,
+          28.842118
+        ]
+      },
+      "id": "node/11687787409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11687944672",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "aryan hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5634992,
+          28.8240334
+        ]
+      },
+      "id": "node/11687944672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691628679",
+        "amenity": "pharmacy",
+        "brand": "Supplyco Medical Store",
+        "brand:wikidata": "Q99614176",
+        "healthcare": "pharmacy",
+        "name": "Supplyco Medical Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2964112,
+          28.7360544
+        ]
+      },
+      "id": "node/11691628679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691646449",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2977806,
+          28.7361467
+        ]
+      },
+      "id": "node/11691646449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697662195",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2886859,
+          28.735724
+        ]
+      },
+      "id": "node/11697662195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11932509027",
+        "addr:city": "Indirapuram",
+        "addr:district": "Ghaziabad",
+        "addr:housenumber": "Plot no 477",
+        "addr:postcode": "201014",
+        "addr:street": "Ground Floor, near Patanjali store, opposite to SHIPRA SRISHTI, Niti Khand 2",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthodontics;physiotherapy;dermatology;neurology;paediatrics;gynaecology",
+        "name": "Medical Mantra Multispeciality Clinic & Diagnostic centre",
+        "operator": "Novosalus Technology",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3720645,
+          28.6417153
+        ]
+      },
+      "id": "node/11932509027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595641493",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "dr naveen clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3403105,
+          28.688695
+        ]
+      },
+      "id": "node/12595641493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595654412",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "parakh hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3394581,
+          28.6930519
+        ]
+      },
+      "id": "node/12595654412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595808673",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4864004,
+          28.6919666
+        ]
+      },
+      "id": "node/12595808673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595808693",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "myra hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4821651,
+          28.6848998
+        ]
+      },
+      "id": "node/12595808693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12985396101",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chandralakshmi Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.340079,
+          28.6460547
+        ]
+      },
+      "id": "node/12985396101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12986009477",
+        "addr:city": "Vaishali",
+        "addr:district": "Ghaziabad",
+        "addr:housenumber": "130",
+        "addr:street": "Sector 4",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Paras Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3446415,
+          28.6471942
+        ]
+      },
+      "id": "node/12986009477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12997288857",
+        "amenity": "pharmacy",
+        "name": "Family Care Medicos",
+        "opening_hours": "PH open",
+        "panoramax": "1f46d4ad-3b44-44d6-87ca-56d4ed7c09c8",
+        "phone": "+91 98718 78651",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3387218,
+          28.6449103
+        ]
+      },
+      "id": "node/12997288857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12997313163",
+        "amenity": "doctors",
+        "healthcare:speciality": "Child specialist, Homeopathic specialist",
+        "name": "Doctor Bhargava Clinic",
+        "nohousenumber": "yes",
+        "panoramax": "608b41a2-f8b0-497b-9203-f1ad5e6721e1",
+        "phone": "+91 88003 40247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3388901,
+          28.6446764
+        ]
+      },
+      "id": "node/12997313163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12997331780",
+        "amenity": "pharmacy",
+        "name": "Good Will Medicos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3388292,
+          28.644621
+        ]
+      },
+      "id": "node/12997331780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13503029401",
+        "addr:postcode": "201014",
+        "addr:street": "Shaheed captain Manoj Pandey Marg",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "internet_access": "wlan",
+        "name": "Yashodha Medicity",
+        "opening_hours": "24/7",
+        "phone": "+919266610101",
+        "website": "https://www.yashodahospital.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3784936,
+          28.6464452
+        ]
+      },
+      "id": "node/13503029401"
+    }
+  ]
+}

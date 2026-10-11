@@ -1,0 +1,196 @@
+﻿osm_id,name,category,latitude,longitude,address,website,phone,emergency,wheelchair,source,verification_status
+way/351576781,Dr. Rajiv Saxena,clinic,28.654815,77.3590343,,,,,,OpenStreetMap,unverified
+way/352429480,Kansal Hospital,hospital,28.6770581,77.4208355,,,,yes,yes,OpenStreetMap,unverified
+way/352730796,HOD Ghaziabad - House Of Diagnostics,hospital,28.6701836,77.4279667,F-56 Hapur Road Ghaziabad,https://www.hod.care/locate-us/ghaziabad/ghaziabad,,no,,OpenStreetMap,unverified
+way/352742670,harmukh clinic,doctors,28.6857193,77.3430659,,,,,,OpenStreetMap,unverified
+way/352795914,Homopathic medicines,doctors,28.664828,77.4370519,,,,,,OpenStreetMap,unverified
+way/454449753,Dr. Ram Saran Garg Indo-German Hospital,hospital,28.6726216,77.5043269,National Highway 24 Bypass Ghaziabad,,,yes,,OpenStreetMap,unverified
+way/956482402,Dr.Bali,doctors,28.6647587,77.4351015,,,,,,OpenStreetMap,unverified
+way/1086642598,SHIKHA ACUPUNCTURE SANATORIUM,hospital,28.6539567,77.4717634,,,,,,OpenStreetMap,unverified
+node/1153085078,Shanti Gopal Hospital,doctors,28.6418773,77.3790623,,,,,yes,OpenStreetMap,unverified
+way/1257921916,Apollo Clinic,hospital,28.6354868,77.3611181,,,,,,OpenStreetMap,unverified
+way/1297129473,Navin Hospital,hospital,28.6932077,77.4400609,,,,,,OpenStreetMap,unverified
+way/1297133496,Shyam Hospital,hospital,28.7715549,77.5122291,,,,,,OpenStreetMap,unverified
+way/1302897714,Muradnagar Metro Hospital,hospital,28.7713484,77.5110954,,,,,,OpenStreetMap,unverified
+node/1355998753,"Yashoda Super Speciality Hospital, Anand Vihar",hospital,28.6450931,77.3287535,,https://www.yashodahospital.org/,,yes,,OpenStreetMap,unverified
+node/1355999060,Vikas Mediacl Store,pharmacy,28.6408743,77.3204776,,,,,,OpenStreetMap,unverified
+way/1408808783,Manipal Hospital,hospital,28.6552488,77.4722731,,,,,,OpenStreetMap,unverified
+way/1409201613,Yashoda Hospital,hospital,28.6599186,77.4382019,,,,,,OpenStreetMap,unverified
+way/1413022854,ESIC Hospital,hospital,28.6856828,77.3467537,,,,,,OpenStreetMap,unverified
+way/1413084864,Yashoda Superspeciality Hospital & Cancer Institute,hospital,28.6877617,77.4511697,,,,,,OpenStreetMap,unverified
+way/1548186958,Yashoda Medicity,hospital,28.6462502,77.377579,,,,,,OpenStreetMap,unverified
+node/1738096147,Shanti Gopal Hospital,hospital,28.6418223,77.3792669,,,,,,OpenStreetMap,unverified
+node/1743184050,Neelkanth,pharmacy,28.6417646,77.3794073,,,,,yes,OpenStreetMap,unverified
+node/3316266551,Apollo Pharmacy,pharmacy,28.639222,77.3620199,,,,,,OpenStreetMap,unverified
+node/3527396166,awasthi hospital,hospital,28.6526314,77.3713857,,,,,,OpenStreetMap,unverified
+node/3824723605,Dr. Shweta Nihalani ( Dentist in Indirapuram),clinic,28.6393065,77.3605586,"A-102, Ahinsa Khand-1 Dr. Sushila Naiyar Marg Indirapuram",http://dentistinindirapuram.in/,9811397879,,,OpenStreetMap,unverified
+node/3901053082,Dr. Achal Swami,clinic,28.6723029,77.4336922,,,,,,OpenStreetMap,unverified
+node/4258202994,Eye7 Chaudhary Eye Centre,hospital,28.6395242,77.373357,Doctor Sushila Naiyar Marg Ghaziabad,https://www.eye7.in/network-hospitals/eye7-chaudhary-eye-centre-indirapuram/,+91-97178-96108,,yes,OpenStreetMap,unverified
+node/5200574281,Aradhya Clinic,clinic,28.6360093,77.3756869,,,,,,OpenStreetMap,unverified
+node/5455135434,Apollo Pharmacy,pharmacy,28.6371339,77.3760252,,,,,,OpenStreetMap,unverified
+node/5531799828,Doctor Chander Lata,doctors,28.667554,77.330627,,,,,no,OpenStreetMap,unverified
+node/5534226218,Dr Lal Path Labs,doctors,28.663813,77.322127,,,,,no,OpenStreetMap,unverified
+node/5534307413,Om Medicos,pharmacy,28.6645034,77.323046,,,,,,OpenStreetMap,unverified
+node/6352740524,Apollo Pharmacy,pharmacy,28.6383442,77.3689305,,,,,,OpenStreetMap,unverified
+node/7009263589,Dr Fateh Singh Hospital,hospital,28.6471512,77.3412971,,,,,,OpenStreetMap,unverified
+node/7018011421,Sakshi Medicare,hospital,28.6863918,77.4169093,,,4238910,,,OpenStreetMap,unverified
+node/7018026517,Mavi Nursing Home,clinic,28.7259864,77.2881059,,,,,,OpenStreetMap,unverified
+node/7018033056,"Chandra Laxmi Hospital, Maliwara Chowk",hospital,28.666936,77.4325258,,,,,,OpenStreetMap,unverified
+node/7018070850,"Shree Krishna Hospital, Ghaziabad",hospital,28.6520842,77.3603535,,,,,,OpenStreetMap,unverified
+node/7018108341,"Navjeevan Nursing Home, Shastri Nagar",clinic,28.6763705,77.4736266,,,,,,OpenStreetMap,unverified
+node/7018137209,"Lokpriya Hospital, Modinagar",hospital,28.8416405,77.5819744,,,,,,OpenStreetMap,unverified
+node/7018342523,"Lokpriya Hospital, Ghaziabad",hospital,28.6675714,77.4346152,,,,,,OpenStreetMap,unverified
+node/7018342549,"Sood Nursing Home, Ghaziabad",clinic,28.665804,77.437638,,,,,,OpenStreetMap,unverified
+node/7018342570,Jai Nursing Home,clinic,28.6779906,77.4211961,,,,,,OpenStreetMap,unverified
+node/7018342587,Param Jyoti Eye Center,hospital,28.6574453,77.3587207,,,,,,OpenStreetMap,unverified
+node/7018342610,Meha Maternity and Pain Clinic,clinic,28.6763916,77.4200581,,,,,,OpenStreetMap,unverified
+node/7018342625,Vardhman Medicare,hospital,28.6627578,77.442312,,,,,,OpenStreetMap,unverified
+node/7018342677,Bhagwati Upchaar Kendra,clinic,28.670379,77.4291381,,,,,,OpenStreetMap,unverified
+node/7018562712,Dr. Ranjan's Gynae and Eye Clinic,clinic,28.6371608,77.3356269,,,,,,OpenStreetMap,unverified
+node/7018564222,"Vardan Eye Hospital, Ghaziabad",hospital,28.6865836,77.4460183,,,2752440,,,OpenStreetMap,unverified
+node/7018620981,"Holy Cross Hospital, Ghaziabad",hospital,28.6885725,77.5530255,,,,,,OpenStreetMap,unverified
+node/7018738271,Krishna Hospital and Trauma Centre,hospital,28.6703284,77.4289886,,,,,,OpenStreetMap,unverified
+node/7018939993,Avantika Hospital,hospital,28.6455529,77.3717563,,,,,,OpenStreetMap,unverified
+node/7019130160,Apex Multi Speciality Hospital,hospital,28.6678491,77.4638459,,,,,,OpenStreetMap,unverified
+node/7019995876,Manipal hospital,hospital,28.6551434,77.4724531,,,,,,OpenStreetMap,unverified
+node/7019995882,Mittal Hospital and Diagnostic Centre,hospital,28.6701642,77.4282107,,,,,,OpenStreetMap,unverified
+node/7020001187,Mithlesh Nursing Home,clinic,28.6526097,77.4365316,,,,,,OpenStreetMap,unverified
+node/7020446795,Dr. Ravi Prakash Sharma,doctors,28.6579608,77.4338602,,,,,,OpenStreetMap,unverified
+node/7020474636,Shiv Krishna Hospital,hospital,28.6861947,77.3702958,,,,,,OpenStreetMap,unverified
+node/7020669954,I T S Hospital,hospital,28.7524589,77.4956381,,,,,,OpenStreetMap,unverified
+node/7020768213,Tyagi Nursing Home,clinic,28.6809262,77.4412268,,,,,,OpenStreetMap,unverified
+node/7020925916,"CGHS Dispensary, Kamla Nehru Nagar",clinic,28.6805831,77.4634999,,http://nb.bsf.gov.in/CGHS%20DIspenseries.pdf,,,,OpenStreetMap,unverified
+node/7020925967,Sohan Nursing Home and Maternity Centre,clinic,28.6816651,77.4918348,,,,,,OpenStreetMap,unverified
+node/7020926045,Heera Lal Hospital and Heart Care Centre,hospital,28.6745067,77.4617296,,,,,,OpenStreetMap,unverified
+node/7021030803,Prem Dharam Hospital and Diagnostics,hospital,28.6600937,77.367961,,,,,,OpenStreetMap,unverified
+node/7021222684,"Ganesh Hospital, Ghaziabad",hospital,28.6623575,77.439385,,,,,,OpenStreetMap,unverified
+node/7021248743,Jain Hospital and Research Centre,hospital,28.661683,77.360141,,,,,,OpenStreetMap,unverified
+node/7021267999,City Central Hospital,hospital,28.6603055,77.4269811,,,,,,OpenStreetMap,unverified
+node/7022093963,Prime Hospital,hospital,28.6740831,77.4664289,,,,,,OpenStreetMap,unverified
+node/7022320908,Gopal Hospital,hospital,28.7258364,77.2893602,,,,,,OpenStreetMap,unverified
+node/7022535115,Krishna Family Hospital and Infertility Center,hospital,28.6537077,77.411115,,,,,,OpenStreetMap,unverified
+node/7022618281,Sarvodaya Hospital,hospital,28.8398784,77.5815225,,,2242991,,,OpenStreetMap,unverified
+node/7024789109,Dr. Roopa Kaushik,doctors,28.6577254,77.4374302,,,,,,OpenStreetMap,unverified
+node/7024789288,Aasha Deep Hospital,hospital,28.6875033,77.3394397,,,,,,OpenStreetMap,unverified
+node/7024811606,Dr. Rani Ghai Hospital Pvt. Ltd.,hospital,28.6439075,77.4272177,,,,,,OpenStreetMap,unverified
+node/7024843760,"Shivalik Hospital, Ghaziabad",hospital,28.6796341,77.4911327,,,,,,OpenStreetMap,unverified
+node/7024849103,Dr. Rakesh Taneja,doctors,28.6705426,77.4304739,,,,,,OpenStreetMap,unverified
+node/7024852288,S.S. Medicare Centre,hospital,28.6661429,77.3310229,,,2622923,,,OpenStreetMap,unverified
+node/7024891210,Trisal Netralaya And Phaco Centre,clinic,28.8409196,77.580775,,,,,,OpenStreetMap,unverified
+node/7024906924,Kailash Medicare and Research Center,hospital,28.6912702,77.4367192,,,0120 2706124,,,OpenStreetMap,unverified
+node/7024933937,Kalawati Memorial Clinic,clinic,28.6374372,77.3532185,,,,,,OpenStreetMap,unverified
+node/7025001144,Vardaan Nursing and Maternity Home,clinic,28.6695412,77.4570747,,,,,,OpenStreetMap,unverified
+node/7025113021,"Aarogya Hospital, Ghaziabad",hospital,28.6481363,77.3516937,,,,,,OpenStreetMap,unverified
+node/7025113030,Sanjivani Maternity and Nursing Home Pvt Ltd,clinic,28.6756803,77.3698917,,,,,,OpenStreetMap,unverified
+node/7025117453,Pannalal Shyamlal Hospital,hospital,28.6633309,77.4351072,,,,,,OpenStreetMap,unverified
+node/7025136072,Pulmonic Hospital,hospital,28.6865262,77.450742,,,,,,OpenStreetMap,unverified
+node/7025223722,Sharnam Eye Centre and Laser Services,hospital,28.6805275,77.4530001,,,,,,OpenStreetMap,unverified
+node/7025407258,jeevan hospital,hospital,28.840705,77.5806252,,,,,,OpenStreetMap,unverified
+node/7025610751,Getwell physiotherapy center,hospital,28.6921759,77.3416096,,,,,,OpenStreetMap,unverified
+node/7025804773,Sparsh Multispeciality Hospital,hospital,28.6927335,77.3397857,,,,,,OpenStreetMap,unverified
+node/7025849063,"Meenakshi Hospital, Ghaziabad",hospital,28.642142,77.3257148,,,,,,OpenStreetMap,unverified
+node/7025924014,Rizvi Surgical Centre,hospital,28.6724376,77.4490426,,,,,,OpenStreetMap,unverified
+node/7026434076,Sahibabad Medicare Centre,hospital,28.6783954,77.3657387,,,,,,OpenStreetMap,unverified
+node/7027347754,New Vision Eye and Medical Care,hospital,28.6837476,77.3551735,,,,,,OpenStreetMap,unverified
+node/7027411289,Shri Raghuwar Shyam Hospital and Research Centre Pvt. Ltd.,hospital,28.6818957,77.4442175,,,,,,OpenStreetMap,unverified
+node/7027531400,Drishti Eye Care,clinic,28.6441329,77.3418112,,,,,,OpenStreetMap,unverified
+node/7027606290,"Tewari Eye Centre, Vaishali",hospital,28.6463402,77.3470599,,,,,,OpenStreetMap,unverified
+node/7027606300,Tej Nursing Home and Surgical Clinic,clinic,28.6711245,77.4287846,,,,,,OpenStreetMap,unverified
+node/7027683516,Dr. Ajit Dinker's Centre For Ultrasound,clinic,28.6711126,77.4301839,,,,,,OpenStreetMap,unverified
+node/7027718160,Jeevanlok Hospital,hospital,28.6461731,77.4157552,,,,,,OpenStreetMap,unverified
+node/7027730417,Dr. Vipin K. Tyagi,doctors,28.6768046,77.4506038,,,,,,OpenStreetMap,unverified
+node/7027732228,"Brij Medical Centre, Ghaziabad",hospital,28.6690683,77.4543169,,,,,,OpenStreetMap,unverified
+node/7027732234,Dr. Arun Gupta,doctors,28.6849833,77.4407852,,,,,,OpenStreetMap,unverified
+node/7027743633,Gargi Hospital - Ghaziabad,hospital,28.6831687,77.4492252,,,,,,OpenStreetMap,unverified
+node/7027783655,"Sharp Sight Centre, Indirapuram",hospital,28.6362843,77.3607058,,https://www.sharpsight.in/,,,,OpenStreetMap,unverified
+node/7027783668,"Sharma Nursing Home, Ghaziabad",clinic,28.6911391,77.4515803,,,2783428,,,OpenStreetMap,unverified
+node/7027783673,Dharampal Memorial Hospital - Ghaziabad,hospital,28.7486784,77.2862246,,,,,,OpenStreetMap,unverified
+node/7027819907,Agrawal Maternity and Nursing home,clinic,28.6827835,77.4526592,,,,,,OpenStreetMap,unverified
+node/7027859309,Vijay Clinic and Maternity Centre,clinic,28.6911643,77.4525958,,,,,,OpenStreetMap,unverified
+node/7027903595,Saras Health Care Pvt Ltd,hospital,28.644829,77.4092596,,,,,,OpenStreetMap,unverified
+node/7027932255,Sarvodaya Hospital and Trauma Centre,hospital,28.6449508,77.3391154,,,,,,OpenStreetMap,unverified
+node/7027961500,Shivam Hospital and Heart Centre,hospital,28.6841869,77.4397045,,,,,,OpenStreetMap,unverified
+node/7028065211,Kasana Nursing Home,clinic,28.6707585,77.4609283,,,,,,OpenStreetMap,unverified
+node/7028152777,Priyadarshini Hospital,hospital,28.842383,77.5812207,,,,,,OpenStreetMap,unverified
+node/7028293108,Poddar Nursing Home Pvt. Ltd.,clinic,28.6706673,77.4313845,,,,,,OpenStreetMap,unverified
+node/7028298210,Sparsh Medicare and Trauma Centre,hospital,28.6501229,77.364914,,,,,,OpenStreetMap,unverified
+node/7028455910,Nidaan Nursing Home,clinic,28.6395126,77.345653,,,,,,OpenStreetMap,unverified
+node/7028455911,Dube Nursing Home,clinic,28.8415865,77.580522,,,,,,OpenStreetMap,unverified
+node/7028478538,Astha Nursing Home,clinic,28.6454722,77.4210157,,,,,,OpenStreetMap,unverified
+node/7028505213,Shakuntala Hospital Ltd,hospital,28.84122,77.5809699,,,,,,OpenStreetMap,unverified
+node/7028667949,Akash Hospital and E.N.T Care Centre,hospital,28.8417791,77.5820716,,,,,,OpenStreetMap,unverified
+node/7028759340,"Sai Baba Nursing Home, Ghaziabad",clinic,28.7560572,77.2828002,,,,,,OpenStreetMap,unverified
+node/7028806719,Dr. Bharat S. Rastogi,doctors,28.6767929,77.3727977,,,,,,OpenStreetMap,unverified
+node/7029003729,Akhilesh Gaumat Clinic,clinic,28.6722534,77.4458992,,,,,,OpenStreetMap,unverified
+node/7029523751,Singh Ortho Maternity Centre,hospital,28.6933217,77.4486887,,,,,,OpenStreetMap,unverified
+node/7030526545,Jeevan Hospital and Stone Centre,hospital,28.8413498,77.5811597,,,,,,OpenStreetMap,unverified
+node/7030633268,Uttam Hospital,hospital,28.6452075,77.422169,,,,,,OpenStreetMap,unverified
+node/7030696544,Dr. Rakesh Taneja's clinic,clinic,28.6705619,77.4304456,,,,,,OpenStreetMap,unverified
+node/7030703289,Ghaziabad Orthopaedic Clinic,clinic,28.6705494,77.430567,,,6500396,,,OpenStreetMap,unverified
+node/7030705676,Sri Hari Hospital and Stone Centre,hospital,28.6715608,77.4177649,,,,,,OpenStreetMap,unverified
+node/7030999391,Gupta Nursing Home,clinic,28.6827315,77.3670463,,,,,,OpenStreetMap,unverified
+node/7031006667,Jeevan Jyoti Hospital and Diagnostic Centre,hospital,28.6469801,77.4124877,,,,,,OpenStreetMap,unverified
+node/7031006669,IDST Mayo Hospital,hospital,28.8770476,77.6087703,,,,,,OpenStreetMap,unverified
+node/7031035884,Suraj Maternity Fracture Clinic,clinic,28.671188,77.4615231,,,2712630,,,OpenStreetMap,unverified
+node/7031530453,Santosh Medical and Dental College Hospitals,hospital,28.6488083,77.4085039,,,,,,OpenStreetMap,unverified
+node/7031558968,"Parakh Hospital, Ghaziabad",hospital,28.6934335,77.3396918,,,,,,OpenStreetMap,unverified
+node/7031610785,"Sunetra Eye, Laser and Dental Care Centre",hospital,28.6711297,77.4492574,,https://www.sunetra.co.in/,1204233366,,,OpenStreetMap,unverified
+node/7031844632,Dr. Sanjeev Anand Clinic,clinic,28.6786419,77.4508835,,,,,,OpenStreetMap,unverified
+node/7033516100,Sarvodaya Hospital and Research Centren,hospital,28.666846,77.4555914,,,,,,OpenStreetMap,unverified
+node/7034701079,Rajendrs Nursing and Maternity Home,clinic,28.6881394,77.3614727,,,,,,OpenStreetMap,unverified
+node/7034888054,City Nursing Home,clinic,28.6617995,77.4440707,,,,,,OpenStreetMap,unverified
+node/7034914349,Pulse Medicare,hospital,28.6405677,77.3412821,,,,,,OpenStreetMap,unverified
+node/7034980680,City Hospital - Ghaziabad,hospital,28.7387381,77.3143986,,,,,,OpenStreetMap,unverified
+node/7035025470,Dr. Mala Sharma,hospital,28.6519941,77.4105571,,,,,,OpenStreetMap,unverified
+node/7035164731,Shree Tilak Hospital and Trauma Hospital,hospital,28.6429168,77.4164055,,,,,,OpenStreetMap,unverified
+node/7035329353,"Manav Hospital, Ghaziabad",hospital,28.666913,77.4453996,,,,,,OpenStreetMap,unverified
+node/7035396480,Eternity Hospital,hospital,28.6415217,77.3622827,,,,,,OpenStreetMap,unverified
+node/7035680845,Yashoda Super speciality Hospital,hospital,28.6600637,77.4385178,,https://www.yashodahospital.org/,,,,OpenStreetMap,unverified
+node/7035744523,Anand Nursing Home Orthopaedic Centre and Maernity Home,hospital,28.6622837,77.449201,,,,,,OpenStreetMap,unverified
+node/7035825553,Swami Nand Lal Jee Hospital Pvt Ltd,hospital,28.6937758,77.3447263,,,,,,OpenStreetMap,unverified
+node/7036050227,"Nagar Hospital, Ghaziabad",hospital,28.6728959,77.4359617,,,,,,OpenStreetMap,unverified
+node/7036238981,Aakash Medicare,clinic,28.6705931,77.3800188,,,,,,OpenStreetMap,unverified
+node/7037315938,Dr. Vandana Agarwal,doctors,28.6624507,77.440217,,,,,,OpenStreetMap,unverified
+node/7037553684,"Sanjeevani Nursing Home, Ghaziabad",clinic,28.6886094,77.3604768,,,,,,OpenStreetMap,unverified
+node/7037751988,Verma Nursing Homeand Reliance Daignostic Centre,clinic,28.6700603,77.4608706,,,2752706,,,OpenStreetMap,unverified
+node/7037752003,"Sanjivani Nursing Home, Ghaziabad",clinic,28.6717225,77.4186558,,,2733804,,,OpenStreetMap,unverified
+node/7037813514,Vaishali Health Clinic,hospital,28.6376181,77.3385546,,,,,,OpenStreetMap,unverified
+node/7038575956,Ahuja E.N.T. Centre and Nursing Home,clinic,28.6607074,77.4421167,,,,,,OpenStreetMap,unverified
+node/7038580344,Kaushik Nursing Home,clinic,28.6701437,77.3316841,,,,,,OpenStreetMap,unverified
+node/7038608967,"Kamal Hospital, Ghaziabad",hospital,28.6446849,77.3253943,,,,,,OpenStreetMap,unverified
+node/7038662654,Raghubir Hospital Pvt. Ltd.,hospital,28.6747244,77.4964964,,,,,,OpenStreetMap,unverified
+node/7039962713,"District Hospital, Ghaziabad",hospital,28.6890065,77.456156,,,,,,OpenStreetMap,unverified
+node/7173737316,DISTRICT MMG MALE HOSPITAL,hospital,28.6623585,77.4234813,,,,,,OpenStreetMap,unverified
+node/7184266117,NPHC Niwari,hospital,28.8695042,77.540997,,,,,,OpenStreetMap,unverified
+node/7188358522,District Women Hospital Ghaziabad,hospital,28.6614276,77.4222234,,,,,,OpenStreetMap,unverified
+node/7200423020,Government Hospital Chirodi,hospital,28.7792015,77.3337869,,,,,,OpenStreetMap,unverified
+node/7205469172,District combind hospital sanjay nagar,hospital,28.6859053,77.4541484,,,,,,OpenStreetMap,unverified
+node/7488942335,"Sarkari Ayu Hospital, Begmabad",hospital,28.8379216,77.571386,,,,,,OpenStreetMap,unverified
+node/7944515382,Anita's clinic,hospital,28.6360396,77.3756924,,,,,,OpenStreetMap,unverified
+node/8266759426,Platinum Orthopedic & Diagnostic Center,clinic,28.6362159,77.3604566,"2nd Floor Gc 204, Aditya Gold Crest , Above Nathu Sweets, Vaibhav Khand, Indirapuram Ghaziabad",https://www.drvishalortho.com/drvishalortho,,,,OpenStreetMap,unverified
+node/8266858285,Aditya Orthopaedics Clinic,clinic,28.6347048,77.3641493,"LG 05 Amrapali Greens Market, Vaibhav Khand 1, Indrapuram Ghaziabad",https://www.drnitinsrivastavaorthosurgeon.com/,,,,OpenStreetMap,unverified
+node/8266909244,Max Superspeciality Hospital,hospital,28.6346135,77.3330229,"W-3 Near Radisson Blu Hotel, Sector 1, Vaishali Ghaziabad",https://www.jointsurgerydelhi.com/dr-nikunj-agrawal,,,,OpenStreetMap,unverified
+node/8911103217,Dr.Arun,doctors,28.6646168,77.4353902,,,,,,OpenStreetMap,unverified
+node/8911103220,homopathic medicine,doctors,28.6648428,77.4370461,,,,,,OpenStreetMap,unverified
+node/9103840592,Santoshi Medicos,pharmacy,28.6373924,77.3694578,,,,,,OpenStreetMap,unverified
+node/9653198725,Rheuma Clinic,clinic,28.6396489,77.3607776,"The Surgicare, 109A, 1st floor Rajhans Plaza, Kala pathar road Opposite Aditya mega mall, Ahinsa Khand 1, Indirapuram, Uttar Pradesh, India Ghaziabad",https://www.drsauvikdasgupta.in/,,,,OpenStreetMap,unverified
+node/9787375559,Centre for Sight,hospital,28.6476839,77.3786785,,https://www.centreforsight.com/,+9101142504250,,,OpenStreetMap,unverified
+node/10956661880,Arihant Ortho & Truma Center,clinic,28.6479681,77.3684336,"Dr B K Jain, 343 Padmana Naidu Marg,Shakti Khand III, Indirapuram Ghaziabad",,,,,OpenStreetMap,unverified
+node/10956709241,Dr Sanyam Jain's Spine Cure Clinic,clinic,28.6393999,77.3602066,"A 211 2nd floor Rajhans plaza Near aditya mall, Indirapuram Ghaziabad",,,,,OpenStreetMap,unverified
+node/10959514280,Flores Hospital,hospital,28.6579873,77.4113195,,,,,,OpenStreetMap,unverified
+node/10959514281,Medha Hospital,hospital,28.6572794,77.4122774,,,,,,OpenStreetMap,unverified
+node/11559662593,Mahi Medical Store,pharmacy,28.6467176,77.4443117,,,,,,OpenStreetMap,unverified
+node/11569376996,Jan Aushadhi,pharmacy,28.6484189,77.4437515,,,,,,OpenStreetMap,unverified
+node/11687787409,Jeevan hospital,hospital,28.842118,77.5816424,,,,,,OpenStreetMap,unverified
+node/11687944672,aryan hospital,hospital,28.8240334,77.5634992,,,,,,OpenStreetMap,unverified
+node/11691628679,Supplyco Medical Store,pharmacy,28.7360544,77.2964112,,,,,,OpenStreetMap,unverified
+node/11932509027,Medical Mantra Multispeciality Clinic & Diagnostic centre,clinic,28.6417153,77.3720645,"Plot no 477 Ground Floor, near Patanjali store, opposite to SHIPRA SRISHTI, Niti Khand 2 Indirapuram",,,,,OpenStreetMap,unverified
+node/12595641493,dr naveen clinic,doctors,28.688695,77.3403105,,,,,,OpenStreetMap,unverified
+node/12595654412,parakh hospital,hospital,28.6930519,77.3394581,,,,,,OpenStreetMap,unverified
+node/12595808693,myra hospital,hospital,28.6848998,77.4821651,,,,,,OpenStreetMap,unverified
+node/12985396101,Chandralakshmi Hospital,hospital,28.6460547,77.340079,,,,,,OpenStreetMap,unverified
+node/12986009477,Paras Hospital,hospital,28.6471942,77.3446415,130 Sector 4 Vaishali,,,,,OpenStreetMap,unverified
+node/12997288857,Family Care Medicos,pharmacy,28.6449103,77.3387218,,,+91 98718 78651,,no,OpenStreetMap,unverified
+node/12997313163,Doctor Bhargava Clinic,doctors,28.6446764,77.3388901,,,+91 88003 40247,,,OpenStreetMap,unverified
+node/12997331780,Good Will Medicos,pharmacy,28.644621,77.3388292,,,,,,OpenStreetMap,unverified
+node/13503029401,Yashodha Medicity,hospital,28.6464452,77.3784936,Shaheed captain Manoj Pandey Marg,https://www.yashodahospital.org/,+919266610101,,,OpenStreetMap,unverified
